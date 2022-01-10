@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714727625515",
+    "project_id": "fisikamu-9c899",
+    "storage_bucket": "fisikamu-9c899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714727625515:android:c6184f281de51ac6ec6b6e",
+        "android_client_info": {
+          "package_name": "com.example.fisikamu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714727625515-q2fmnev4ackfeq4gfqjln7l0ulhe93fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTA1Kovdduaj0U5z8ANbNIUBucw4nyvAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714727625515-q2fmnev4ackfeq4gfqjln7l0ulhe93fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
